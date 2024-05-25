@@ -150,7 +150,7 @@ We welcome contributions from the community to improve this project. Here are so
 
 2. **Clone Your Fork:**
    ```bash
-   git clone 
+   git clone https://github.com/ai-joe-git/Dynamic-Model-Loader-for-Large-Language-Models.git
    cd dynamic-model-loader
    ```
 
