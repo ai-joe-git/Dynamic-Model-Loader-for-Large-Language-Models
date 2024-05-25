@@ -197,11 +197,3 @@ For any questions or suggestions, feel free to open an issue or contact the repo
 Together, we can make advanced AI accessible to everyone, regardless of their hardware limitations. Let's bridge the technology gap and empower more people with the tools they need to succeed!
 
 ```
-
-### Additional Tips
-
-- **README Formatting:** Ensure the README file is well-formatted and easy to read. Use headings, bullet points, and code blocks to organize information clearly.
-- **Contribution Guidelines:** Consider adding a `CONTRIBUTING.md` file that provides more detailed instructions on how to contribute, including coding standards, testing guidelines, and how to report issues.
-- **Issue Templates:** Create issue templates to guide users in reporting bugs or requesting features. This can streamline the process of managing contributions and feedback.
-
-Feel free to adjust the content to better fit your specific needs and project structure. Good luck with your project, and thank you for contributing to making technology more accessible!
