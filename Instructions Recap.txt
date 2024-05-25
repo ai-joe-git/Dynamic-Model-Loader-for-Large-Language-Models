@@ -39,5 +39,3 @@
     ```bash
     python -m unittest discover tests
     ```
-
-Feel free to adjust file contents and structure as per your project's specific requirements. This setup should provide a solid foundation for the repository and make it easy for others to understand, use, and contribute to the project.
