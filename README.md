@@ -20,7 +20,7 @@ This repository provides a framework for running large models on devices with li
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/dynamic-model-loader.git
+    git clone https://github.com/ai-joe-git/Dynamic-Model-Loader-for-Large-Language-Models.git
     cd dynamic-model-loader
     ```
 
